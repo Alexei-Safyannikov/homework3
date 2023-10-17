@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.growbe {
+    padding-top: 45px;
+}
+
+.header__link {
+    padding-top: 51px;
+}
+
+.title {
+    margin-top: 164px;
+}
+.title__h3 {
+    margin-top: 17px;
+}
+
+.button {
+    margin-top: 37px;
+}
+.button__video {
+    margin-top: 52px;
+}
+
+.img {
+    margin-top: 164px;
+}
+
+.top__logo {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
